@@ -4,8 +4,7 @@
 2. Extract the `.zip` file within the installation folder.
 3. Open the **WHMCS Admin Page**, navigate to **Setup** -> **Products/Services**.
 4. Enter your password to access the setup page.
-5. Find the product **'Sectigo Positive SSL Testing'**.
-6. Click or select the **Edit** button.
+5. Create New Product
 
 ### **Module Settings** tab
 
